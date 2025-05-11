@@ -76,6 +76,8 @@
 
 **명령어 사이클**
 
+<img width="918" alt="image" src="https://github.com/user-attachments/assets/318497aa-e885-4b0c-8edc-e4d1db20232a" />
+
 
 - 프로그램 속 각각의 명령어들이 일정하게 반복되는 주기
 - 인출 사이클
